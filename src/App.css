@@ -5,7 +5,7 @@
 h1{
   margin-bottom: 0em;
   margin-top: 10px;
-  letter-spacing: 3px;
+  /* letter-spacing: 3px; */
   font-family: 'Bigelow Rules', cursive;
   color: #0ccac4;
   font-size: 72px;

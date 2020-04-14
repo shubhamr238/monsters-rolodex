@@ -46,7 +46,7 @@
 @media (min-width: 320px) and (max-width: 480px) {
   
     .card-list{
-        width:220px;
+        width:320px;
         grid-template-columns: 1fr;
         grid-gap: 40px;
     }
